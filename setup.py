@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="sphinx-js",
+    name="sphinx-js-fmhoeger",
     version="3.1.2",
     description="Support for using Sphinx on JSDoc-documented JS code",
     long_description=open("README.rst", "r", encoding="utf8").read(),
